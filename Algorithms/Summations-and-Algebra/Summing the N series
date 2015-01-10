@@ -1,0 +1,5 @@
+T = input()
+
+for t in range(T):
+    N = input()
+    print (N*N % 1000000007)
